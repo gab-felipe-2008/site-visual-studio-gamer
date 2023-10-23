@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>
+        Periféricos do seu zé 
+    </title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+
+<body>
+<b>Algumas marcas (em bold por exemplo !!!)</b>
+<br>
+<br>
+<i>Este parágrafo está intácto.</i>
+<br>
+<br>
+<u>Parágrafo sublinhado.</u>
+<br>
+<br>
+<big>Utilizando a marca big</big> <small>e a marca small.</small>
+<br>
+<br>
+Mais uma marca que permite apresentar expressões do género x<sub>2</sub> e x<sup>2</sup>
+<br>
+<br>
+exemplos de caractéres especiais: <br>
+á à ã â ç é è õ
+
+
+
+
+ 
+</body>
+
+</html>
